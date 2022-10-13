@@ -5,11 +5,11 @@
 
 /**
  *
- * * main - Printing in c
+ * * main - Printing
  *
  * *
  *
- * * Return: Always 0 (It was successful)
+ * * Return: Always 0 (Successful)
  *
  * */
 
