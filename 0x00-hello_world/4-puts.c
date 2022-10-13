@@ -1,4 +1,3 @@
-#!/bin/bash
 
 #include <stdio.h>
 
@@ -6,22 +5,22 @@
 
 /**
  *
- *  *main - Printing in C
+ * * main - Printing in c
  *
- *   *
+ * *
  *
- *    *Return:Always 0 (It was successful)
+ * * Return: Always 0 (It was successful)
  *
- *     */
+ * */
 
-int main (void)
+int main(void)
 
 {
 
-	      puts("\"Programming is like building a multilingual
+	puts("\"Programming is like building a multilingual
 
-			      puzzle");
+			puzzle");
 
-	            return (0);
+	return (0);
 
 }
