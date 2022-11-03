@@ -1,6 +1,8 @@
-fndef MAIN_H
+#ifndef MAIN_H
 
 #define MAIN_H
+
+
 
 #include <unistd.h>
 
@@ -9,7 +11,7 @@ fndef MAIN_H
  *
  * *int prototypes(int)
  *
- *char prototypes(char)
+ * *char prototypes(char)
  *
  */
 
